@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## DDP YOGA -Hikoilua ja kiroilua hymy huulilla
 
-You can use the [editor on GitHub](https://github.com/piamarianne/pantzu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Maailman parasta fittnesiä, jota kuka tahansa pysty tekemään!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sekoitus joogaa, vanhanajan voimistelua, urheiluterapiaa sekä dynaamista lihasvoimailua.
 
-### Markdown
+### Mitä saan harjoittamalla DDP Yogaa?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kasvatat lihasvoimaa, saat pidettyä nivelistön sekä sydämesi (verenvirtauksen suonissa) pysymään kunnossa. On todistettu, että DDP Yogan avulla on mahdollista pudottaa painoa sekä toipua vanhoistakin vammoista.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#DDP YOGA
+##HIKOILUA
+###KIROILUA
 
-- Bulleted
-- List
+-Laji, jota voit harjoittaa harrastusmielessä, kuntoutumiseen tai perheen yhteisenä tekemisenä.
+-Laita itsellesi tavoitteet, mitä tahdot saavuttaa DDP Yogan avulla.
 
-1. Numbered
-2. List
+1.Ota 6 tärkeää ENNEN-kuvaa
+2.Ota mitat kaikista paikoista kehostasi (aly,vy, ry ym.)
 
-**Bold** and _Italic_ and `Code` text
+**Bold** _elämänhallintaa_
 
-[Link](url) and ![Image](src)
+[http://attitude.yondo.com/] ![Image]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/piamarianne/pantzu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
